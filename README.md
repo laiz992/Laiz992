@@ -1,10 +1,6 @@
 Boas vindas ao meu perfil 💙💙
 Meu nome é laiz
-
-Estou estudando na Alura
-Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
-Você pode entrar em contato comigo 📫
-alurastartestudante@email.com
-
-@alurastartestudante
+Eu gosto de aprender coisas novas
+estudo em escola pública
+gosto de cachorros❤️🐕
+minha cor favorita é rosa💗
